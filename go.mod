@@ -1,4 +1,4 @@
-module github.com/YOUR-USER-OR-ORG-NAME/YOUR-REPO-NAME
+module github.com/zhuyuanmao/cello-in-go
 
 go 1.19
 
